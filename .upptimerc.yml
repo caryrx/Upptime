@@ -17,7 +17,6 @@ sites:
     url: https://workbench.caryrx.com
     icon: https://workbench.caryrx.com/logo192.png
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: CaryConnect
