@@ -79,18 +79,18 @@
     "icon": "https://workbench.caryrx.com/logo192.png",
     "slug": "workbench",
     "status": "up",
-    "uptime": "94.39%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "94.39%",
+    "uptime": "94.57%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "94.57%",
     "time": 136,
     "timeDay": 136,
     "timeWeek": 136,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-10-30": 69
+      "2024-10-30": 67
     }
   },
   {
