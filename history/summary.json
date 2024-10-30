@@ -40,18 +40,20 @@
     "url": "https://prod.askclair.ai/api/v1/helpers/get-hint",
     "icon": "https://icons.duckduckgo.com/ip3/prod.askclair.ai.ico",
     "slug": "galen-ai",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1280,
     "timeDay": 1280,
     "timeWeek": 1280,
     "timeMonth": 1280,
     "timeYear": 1280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "OneDash",
