@@ -32,7 +32,6 @@ status-website:
   cname: status.caryrx.com
   # baseUrl: /Upptime
   logoUrl: https://caryimages.s3.us-east-1.amazonaws.com/caryhealth_logo.png
-  name: Cary Status
   theme: light
   navbar:
     - title: Status
