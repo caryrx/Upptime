@@ -17,7 +17,6 @@ sites:
     url: https://workbench.caryrx.com
     icon: https://workbench.caryrx.com/logo192.png
     expectedStatusCodes:
-      - 403
       - 200
       - 201
   - name: CaryConnect
@@ -25,6 +24,9 @@ sites:
     icon: https://caryconnect.cary.health/favicon-32x32.png
   - name: Cary API
     url: https://api5.caryrx.com/v1/zipcodes/20001
+
+assignees:
+  - bencaryhealth
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
