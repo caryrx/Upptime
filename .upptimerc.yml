@@ -25,6 +25,9 @@ sites:
     icon: https://caryconnect.cary.health/favicon-32x32.png
   - name: Cary API
     url: https://api5.caryrx.com/v1/zipcodes/20001
+  - name: Kinetica
+    url: https://prelive.caryrx.com/v1/health/kinetica
+    icon: /assets/kinetica.png
 
 assignees:
   - bencaryhealth
