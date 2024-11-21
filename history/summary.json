@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.askclair.ai.ico",
     "slug": "galen-ai",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
     "time": 1486,
     "timeDay": 1264,
     "timeWeek": 1178,
@@ -81,11 +81,11 @@
     "icon": "https://workbench.caryrx.com/logo192.png",
     "slug": "workbench",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 135,
     "timeDay": 108,
     "timeWeek": 153,
@@ -136,9 +136,9 @@
     "url": "https://prelive.caryrx.com/v1/health/kinetica",
     "icon": "/assets/kinetica.png",
     "slug": "kinetica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,6 +147,8 @@
     "timeWeek": 217,
     "timeMonth": 259,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   }
 ]
