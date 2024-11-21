@@ -136,19 +136,19 @@
     "url": "https://prelive.caryrx.com/v1/health/kinetica",
     "icon": "/assets/kinetica.png",
     "slug": "kinetica",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 400,
-    "timeWeek": 217,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 263,
+    "timeDay": 364,
+    "timeWeek": 231,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 8
     }
   }
 ]
