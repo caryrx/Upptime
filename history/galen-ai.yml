@@ -1,7 +1,7 @@
 url: https://prod.askclair.ai/api/v1/helpers/get-hint
-status: up
-code: 200
-responseTime: 1410
-lastUpdated: 2024-12-12T04:24:11.750Z
+status: down
+code: 502
+responseTime: 167
+lastUpdated: 2024-12-12T16:10:21.997Z
 startTime: 2024-10-29T19:50:10.007Z
 generator: Upptime <https://github.com/upptime/upptime>
