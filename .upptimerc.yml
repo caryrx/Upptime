@@ -28,6 +28,12 @@ sites:
   - name: Kinetica
     url: https://prelive.caryrx.com/v1/health/kinetica
     icon: /assets/kinetica.png
+  - name: PDFService
+    url: https://pdf.caryrx.com/health
+    icon: /assets/pdf.png
+    headers:
+      - "Content-Type: application/json"
+      - "lb-token: $PDF_LB_TOKEN"
 
 assignees:
   - bencaryhealth
