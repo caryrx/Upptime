@@ -187,19 +187,19 @@
     "url": "https://pdf.caryrx.com/health",
     "icon": "/assets/pdf.png",
     "slug": "pdf-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 205,
-    "timeDay": 144,
-    "timeWeek": 233,
+    "timeDay": 173,
+    "timeWeek": 229,
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-05-15": 0
+      "2025-05-15": 12
     }
   }
 ]
