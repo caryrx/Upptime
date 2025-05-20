@@ -187,9 +187,9 @@
     "url": "https://pdf.caryrx.com/health",
     "icon": "/assets/pdf.png",
     "slug": "pdf-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -199,6 +199,7 @@
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2025-05-20": 0,
       "2025-05-15": 12
     }
   }
