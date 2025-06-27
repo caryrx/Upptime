@@ -1,7 +1,7 @@
 url: https://prelive.caryrx.com/v1/health/kinetica
-status: down
-code: 400
-responseTime: 126
-lastUpdated: 2025-06-27T13:33:28.079Z
+status: up
+code: 200
+responseTime: 179
+lastUpdated: 2025-06-27T13:46:20.932Z
 startTime: 2024-11-04T20:44:57.454Z
 generator: Upptime <https://github.com/upptime/upptime>
