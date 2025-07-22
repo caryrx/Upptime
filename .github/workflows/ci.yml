@@ -1,0 +1,16 @@
+name: Uptime CI
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check site status
+        uses: upptime/uptime-monitor@v1
+        with:
+          retries: 3
+          retry-delay: 10
