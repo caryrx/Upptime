@@ -1,7 +1,7 @@
 url: https://api5.caryrx.com/v1/zipcodes/20001
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2025-07-27T06:46:39.128Z
+status: down
+code: 403
+responseTime: 274
+lastUpdated: 2025-07-27T13:14:54.814Z
 startTime: 2024-10-29T20:19:35.959Z
 generator: Upptime <https://github.com/upptime/upptime>
