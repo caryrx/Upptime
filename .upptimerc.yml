@@ -8,14 +8,30 @@ sites:
   - name: Clair
     url: https://askclair.ai
     icon: https://askclair.ai/favicon-32x32.png
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: OnLabel
     url: https://onlabel.ai
     icon: https://onlabel.ai/favicon-32x32.png
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: GalenAI
     url: https://prod.askclair.ai/api/v1/helpers/get-hint
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: OneDash
     url: https://onedash.cary.health
     icon: https://onedash.cary.health/favicon-32x32.png
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: Workbench
     url: https://workbench.caryrx.com
     icon: https://workbench.caryrx.com/logo192.png
@@ -26,25 +42,39 @@ sites:
   - name: CaryConnect
     url: https://caryconnect.cary.health
     icon: https://caryconnect.cary.health/favicon-32x32.png
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: Cary API
     url: https://api5.caryrx.com/v1/zipcodes/20001
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: Kinetica
     url: https://prelive.caryrx.com/v1/health/kinetica
     icon: /assets/kinetica.png
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
   - name: PDFService
     url: https://pdf.caryrx.com/health
     icon: /assets/pdf.png
     headers:
       - "Content-Type: application/json"
       - "lb-token: $PDF_LB_TOKEN"
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 201
 
 assignees:
   - bencaryhealth
   - mattcaryrx
 skipDeleteIssues: true
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.caryrx.com
   # baseUrl: /Upptime
   logoUrl: https://caryimages.s3.us-east-1.amazonaws.com/caryhealth_logo.png
@@ -55,5 +85,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
